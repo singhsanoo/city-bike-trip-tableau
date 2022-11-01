@@ -12,7 +12,7 @@ This workbook compares the city bike data from year 2017 and year 2022. Few of t
 * Total number of riders have increased from approx 26K in 2017 to about 80K in 2022
 * Number of member(subscribed riders) have doubled in 5 years
 * Average trip duration for members have also increased along with increase in number of member riders
-* Popular end stations are not localized in Jersey City we can see some popular stations in Manhattan area
+* Popular end stations are not localized in Jersey City like it was in 2017. Now we can see some popular stations in Manhattan area
 
 
 ## Images
